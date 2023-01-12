@@ -58,9 +58,6 @@
 <img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=mridulsyed&layout=compact&theme=github-light" alt="Mridul's GitHub Activity"/>
 </a>
 </div>     
-      
-      
-![snake gif](https://github.com/mridulsyed/mridulsyed/blob/output/github-contribution-grid-snake.gif)
 
 
 
