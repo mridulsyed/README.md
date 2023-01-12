@@ -38,8 +38,7 @@
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /> 
 </kbd>
 </p>  
-      
-/*      
+         
 <h2 align="center">🥇Kaggle Statistics🥇</h2>
 <div align="center">
 <a href="https://www.kaggle.com/mridulsyed"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/mridulsyed" /></a>
@@ -49,7 +48,6 @@
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mridulsyed/notebook/light" />
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mridulsyed/discussion/light" />
 </p>
-*/
       
 <h2 align="center">📊Github Statistics📊</h2>     
 <div align="center">
