@@ -1,5 +1,3 @@
-
-
 <a href="https://github.com/mridulsyed" target="_blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=mridulsyed&label=Profile%20views&color=129e00" alt="mridulsyed" /></a>
       
 <h2 align="center">Hello, This is Mridul!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
@@ -52,7 +50,7 @@
 <h2 align="center">📊Github Statistics📊</h2>     
 <div align="center">
 <a href="https://github.com/mridulsyed">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mridulsyed&show_icons=true&layout=compact&theme=vue&include_all_commits=true&count_private=true" alt="Mridul's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/apiusername=mridulsyed&show_icons=true&layout=compact&theme=vue&include_all_commits=true&count_private=true" alt="Mridul's GitHub Stats"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mridulsyed&layout=compact&theme=vue">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulsyed&layout=compact&langs_count=7&theme=vue" alt="Mridul's Top Languages"/>
 <img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=mridulsyed&layout=compact&theme=github-light" alt="Mridul's GitHub Activity"/>
