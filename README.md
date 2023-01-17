@@ -36,16 +36,17 @@
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /> 
 </kbd>
 </p>  
-         
-<h2 align="center">🥇Kaggle Statistics🥇</h2>
+     
+<!-- <h2 align="center">🥇Kaggle Statistics🥇</h2>
 <div align="center">
 <a href="https://www.kaggle.com/mridulsyed"><img src="https://github-readme-stats-378m.vercel.app/api/simple/mridulsyed" /></a>
 </div>
 <p align="center">
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mridulsyed/dataset/light" />
+<img src="https://kaggle-badge-three.vercel.app/api/badges/mridulsyed/dataset/light" />
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mridulsyed/notebook/light" />
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mridulsyed/discussion/light" />
-</p>
+</p> -->
+
       
       
 <h2 align="center">📊Github Statistics📊</h2>     
@@ -54,7 +55,7 @@
 <img height="180em" src="https://github-readme-stats-378m.vercel.app/api?username=mridulsyed&show_icons=true&layout=compact&theme=vue&include_all_commits=true&count_private=true""/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mridulsyed&layout=compact&theme=vue">
 <img height="180em" src="https://github-readme-stats-378m.vercel.app/api/top-langs/?username=mridulsyed&layout=compact&langs_count=7&theme=vue"/>
-<img height="295em" src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=mridulsyed&layout=compact&theme=github-light"/>
+<!--<img height="295em" src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=mridulsyed&layout=compact&theme=github-light"/>-->
 </a>
 </div>     
 
@@ -76,6 +77,5 @@
 </kbd>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats-378m.vercel.app/api?username=mridulsyed)](https://github.com/mridulsyed/github-readme-stats)     
 <body/> 
 <html/>
